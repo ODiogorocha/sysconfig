@@ -36,4 +36,3 @@ Este repositório tem como objetivo centralizar configurações de sistemas oper
 - O compartilhamento de ajustes personalizados entre diferentes usuários.
 
 Sinta-se à vontade para explorar, contribuir e compartilhar suas próprias configurações! 😄
-```  
